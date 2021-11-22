@@ -38,4 +38,5 @@ The above parts research result are provided in 3 separated directories accordin
     * Part C - 2 Directory
 
 This project works in an interactive manner by providing the user with the ability for choosing the corresponding points for determining and calculating the different transformations. Though it's possible and preferable to choose once, and load the points in future runnings (the script saves and loads the points of choice).
+
 The script also creates and saves videos for the different image to image transformation process.
