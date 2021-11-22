@@ -19,19 +19,19 @@ Creates a video where the Projective Transformation calculated between pair of i
 
 This part addresses the points of choice for the Transformations affects it!
     
-    *Part C - 1 --
+    * Part C - 1 --
     Shows that the number of points chosen affects the morph result.
     
-    *Part C - 2** --
+    * Part C - 2** --
     Shows that the location of points chosen affects the morph result. Sparse vs Dense set of points.
 
 The above parts research result are provided in 3 separated directories accordingly -
 
-*Part A Directory
+* Part A Directory
 
-*Part B Directory
+* Part B Directory
 
-*Part C Directory,
+* Part C Directory,
     
     * Part C - 1 Directory
     
