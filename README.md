@@ -5,6 +5,7 @@ This project addresses Morphing Sequence Research using Transformations and Imag
 The project contains a script (main.py) which walks through Researching different image to image Transformations, Morphing, and Processing. And it's divided into 3 parts:
 
 **Part A** -- 
+
 Creates a sequence of images morphing from one face image to another (Face images can be found in FaceImages directory).
 In this part we Choose and save 12 points based on the Locations.jpeg image provided (you can choose more). Then morphing them using the functions in core_processing.py. 
 In order to create a smooth video, we use number of frames large enough to create the transition (100 in our case). 
