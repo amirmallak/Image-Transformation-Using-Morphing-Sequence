@@ -12,20 +12,29 @@ In order to create a smooth video, we use number of frames large enough to creat
 In the associated videos, we display the created morph sequence.
 
 **Part B** --
+
 Creates a video where the Projective Transformation calculated between pair of images performs better than an Affine one. Each of the Transformations were calculated as a Hyperplane using a 3D ambient space.
 
 **Part C** --
+
 This part addresses the points of choice for the Transformations affects it!
+    
     **Part C - 1** --
     Shows that the number of points chosen affects the morph result.
+    
     **Part C - 2** --
     Shows that the location of points chosen affects the morph result. Sparse vs Dense set of points.
 
 The above parts research result are provided in 3 separated directories accordingly -
+
 *Part A Directory
+
 *Part B Directory
+
 *Part C Directory,
+    
     * Part C - 1 Directory
+    
     * Part C - 2 Directory
 
 This project works in an interactive manner by providing the user with the ability for choosing the corresponding points for determining and calculating the different transformations. Though it's possible and preferable to choose once, and load the points in future runnings (the script saves and loads the points of choice).
